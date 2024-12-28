@@ -51,7 +51,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Timer** ❌
 - **Phone** ❌
 - **Customer Order Card** ❌
-- **Calander** ❌
+- **Calander** ✅
 - **Card Book** ❌
 - **Money** ❌
 - **Background** ✅
