@@ -47,7 +47,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Card and Bonus Purchases**: Use earnings to buy cards and bonuses to enhance gameplay.                                              ❌
 
 ## Sprites For The First Scene
-- **Counter** ❌
+- **Counter** ✅
 - **Timer** ❌
 - **Phone** ❌
 - **Customer Order Card** ❌
