@@ -46,6 +46,30 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Finance and Cash Register System**: Manage earnings, expenses, and the cash register.                                               ❌
 - **Card and Bonus Purchases**: Use earnings to buy cards and bonuses to enhance gameplay.                                              ❌
 
----
+## Sprites For The First Scene
+- **Counter** ❌
+- **Timer** ❌
+- **Phone** ❌
+- **Customer Order Card** ❌
+- **Calander** ❌
+- **Card Book** ❌
+- **Money** ❌
+- **Background** ❌
+- **Customer** ❌
 
-This version clearly outlines the goals of the project in a professional and engaging way, making it more informative for developers or collaborators. Let me know if you'd like further refinements!
+ ## Sounds For The First Scene
+- **Paper sliding over a surface** ❌
+- **Timer ticking quietly** ❌
+- **Timer ticking mildly** ❌
+- **Timer ticking loud** ❌
+- **Elektrik sparks** ❌
+- **Background music** ❌
+- **Insects** ❌
+- **Card Book won't open** ❌
+- **Card Book open** ❌
+- **Money sliding over a surface** ❌
+- **collecting money** ❌
+- **Customer noises** ❌
+
+
+
