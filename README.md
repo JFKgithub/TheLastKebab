@@ -54,7 +54,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Calander** ❌
 - **Card Book** ❌
 - **Money** ❌
-- **Background** ❌
+- **Background** ✅
 - **Customer** ❌
 
  ## Sounds For The First Scene
