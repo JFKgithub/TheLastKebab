@@ -31,3 +31,21 @@ As the game progresses, the tension builds, and the phone lines take on an incre
 - **Engaging story**: Uncover the mystery behind your shop and the creatures that frequent it.
 - **Atmospheric horror**: A tense, nerve-wracking environment where every mistake could be your last.
 - **Dark humor**: A quirky, offbeat narrative that balances the horror with absurdity.
+
+## Goals
+- **Time Management**: Serve customers efficiently within strict time limits.
+- **Day Progress Tracker**: Monitor day-to-day progress to track the storyline.
+- **Phone Interaction Mechanic**: Receive mysterious phone calls as part of the story progression.
+- **Customer Interactions**: Handle demanding and grotesque customer orders.
+- **Meat Preparation Mechanic**: Prepare and cook meats to perfection for the orders.
+- **Salad Preparation Mechanic**: Chop and assemble fresh salads for the kebabs.
+- **White Sauce Creation**: Create and serve delicious white sauce.
+- **Red Sauce Creation**: Prepare a fiery red sauce for customers with bold tastes.
+- **Bread Baking Feature**: Bake fresh bread to complement the dishes.
+- **Drink Service**: Offer a selection of drinks on the menu. (If the player bought the drinks the day before. To gain extra tips.)
+- **Finance and Cash Register System**: Manage earnings, expenses, and the cash register.
+- **Card and Bonus Purchases**: Use earnings to buy cards and bonuses to enhance gameplay.
+
+---
+
+This version clearly outlines the goals of the project in a professional and engaging way, making it more informative for developers or collaborators. Let me know if you'd like further refinements!
