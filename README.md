@@ -49,7 +49,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 ## Sprites For The First Scene
 - **Counter** ✅
 - **Timer** ❌
-- **Phone** ❌
+- **Phone** ✅
 - **Customer Order Card** ❌
 - **Calander** ✅
 - **Card Book** ❌
