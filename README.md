@@ -33,7 +33,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Dark humor**: A quirky, offbeat narrative that balances horror with absurdity.
 
 ## Goals
-- **Time Management**: Serve customers efficiently within strict time limits.                                                           ❌
+- **Time Management**: Serve customers efficiently within strict time limits.                                                           ✅
 - **Day Progress Tracker**: Monitor day-to-day progress to track the storyline.                                                         ❌
 - **Phone Interaction Mechanic**: Receive mysterious phone calls as part of the story progression.                                      ✅
 - **Customer Interactions**: Handle demanding and grotesque customer orders.                                                            ❌
@@ -48,7 +48,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 
 ## Sprites For The First Scene
 - **Counter** ✅
-- **Timer** ❌
+- **Timer** ✅
 - **Phone** ✅
 - **Customer Order Card** ❌
 - **Calander** ✅
@@ -68,7 +68,7 @@ As the game progresses, tension builds, and the phone lines become increasingly 
 - **Card Book won't open** ❌
 - **Card Book open** ❌
 - **Money sliding over a surface** ❌
-- **collecting money** ❌
+- **Collecting money** ❌
 - **Customer noises** ❌
 
 
